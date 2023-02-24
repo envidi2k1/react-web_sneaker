@@ -1,0 +1,292 @@
+{
+  "fakeAPI": [
+    {
+      "id": 1,
+      "title": "Giày Nike Air Force 1 '07 'White' 315122-111",
+      "price": 3100000,
+      "description": "Giày Nike Air Force 1 '07 'White' là đôi giày sneaker trắng đơn giản, thoải mái và phù hợp với nhiều phong cách",
+      "category": "Nike",
+      "image": "https://product.hstatic.net/200000384421/product/240_01.jpg_34183f6907ea4533beb58f70876f9325_42ed24aec19944a8b78f2ad194c70c0c_large.jpeg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 2,
+      "title": "Giày Nike Dior X Air Jordan 1 High CN8607-002",
+      "price": 290000000,
+      "description": "Giày Nike Dior X Air Jordan 1 là một sự kết hợp độc đáo giữa thương hiệu thời trang Dior và thương hiệu giày Air Jordan của Nike. Đôi giày này có thiết kế đầy mê hoặc, với màu xám và trắng sang trọng cùng với logo Dior và Air Jordan được phối hợp tinh tế trên bề mặt giày.",
+      "category": "Nike",
+      "image": "https://product.hstatic.net/200000384421/product/ike-dior-air-jordan-1-high-cn8607-002_4fd33727c3a24c16bfd473d2b4d788fb_d86dc60943e1448fa2de79b441f0e41e_large.jpg",
+      "rating": {
+        "rate": 4.1,
+        "count": 259
+      }
+    },
+    {
+      "id": 3,
+      "title": "Giày Nike Off-White X Air Jordan 1 Retro High OG 'Chicago' AA3834-101",
+      "price": 199000000,
+      "description": "Giày Nike Off-White X Air Jordan 1 là một sự kết hợp độc đáo giữa thương hiệu giày Nike và thương hiệu thời trang Off-White của Virgil Abloh. Đôi giày này có thiết kế đầy sáng tạo, với màu trắng và đen cơ bản cùng với logo Off-White được phối hợp tinh tế trên bề mặt giày. ",
+      "category": "Nike",
+      "image": "https://product.hstatic.net/200000384421/product/upload_34c30e1fd3fa4bf982c2f2e4619a4317_eda67f1df88743ebaac38a94d86f732a_large.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 500
+      }
+    },
+    {
+      "id": 4,
+      "title": "Giày Nike Air Force 1 Shadow 'White Atmosphere' CI0919-117",
+      "price": 5400000,
+      "description": "Giày Nike Air Force 1 Shadow 'White Atmosphere' là một phiên bản mới của dòng Air Force 1, với thiết kế tối giản và tông màu trắng chủ đạo. Đôi giày này có đế giữa bằng cao su và đế ngoài bằng cao su không dính, mang lại sự thoải mái và độ bền. Thiết kế lớp đệm kép tạo ra vẻ ngoài phóng khoáng và độc đáo, tăng thêm sự cá tính cho người mang.",
+      "category": "Nike",
+      "image": "https://product.hstatic.net/200000384421/product/ci0919_117.png_4d54ca9cfda143f2a_d1599311f7f442beb7c1a21f15972857_large.png",
+      "rating": {
+        "rate": 2.1,
+        "count": 430
+      }
+    },
+    {
+      "id": 5,
+      "title": "Giày New Balance 550 'White Team Red' BB550SE1",
+      "price": 4500000,
+      "description": "Giày sneakers New Balance 550 'White Team Red' có thiết kế trắng với những chi tiết đỏ tươi, tạo điểm nhấn cho mẫu giày cổ điển. Giày có đế giữa được đệm và đế ngoài bằng cao su chắc chắn, mang lại sự thoải mái và hỗ trợ cho chân suốt cả ngày.",
+      "category": "New Blance",
+      "image": "https://product.hstatic.net/200000384421/product/708099_01.jpg_3f5a28e6161747c08f_08331080b4be449fbfe8367b989a5226_large.png",
+      "rating": {
+        "rate": 4.6,
+        "count": 400
+      }
+    },
+    {
+      "id": 6,
+      "title": " Giày Adidas Yeezy Boost 350 'Moonrock' AQ2660 ",
+      "price": 35000000,
+      "description": " Giày Adidas Yeezy Boost 350 là một trong những đôi giày sneaker được thiết kế bởi rapper Kanye West và hãng Adidas. Đôi giày này có thiết kế đơn giản nhưng độc đáo, với chất liệu vải dệt kim và lớp đế boost mang lại sự thoải mái và độ bền. Thiết kế của giày đề cao tính thẩm mỹ với các đường may chéo đặc trưng và màu sắc tối giản ",
+      "category": "Adidas",
+      "image": "https://product.hstatic.net/200000384421/product/33561_01.jpg_dbce9c90067a4cc5a31_760874a7bdbc409f8d2f31b633b242ce_large.jpg ",
+      "rating": {
+        "rate": 3.9,
+        "count": 70
+      }
+    },
+    {
+      "id": 7,
+      "title": " Giày Adidas Yeezy Boost 350 V2 'Copper' BY1605 ",
+      "price": 27900000,
+      "description": " Giày Adidas Yeezy Boost 350 V2 'Copper' là đôi giày sneaker được thiết kế bởi Kanye West và Adidas, với màu đen chủ đạo và chi tiết đồng nổi bật trên đế. Chất liệu vải dệt kim và lớp đế boost mang lại sự thoải mái và độ bền cao. Đôi giày này là biểu tượng của phong cách thời trang đương đại và được yêu thích trên toàn thế giới. ",
+      "category": "Adidas",
+      "image": "https://product.hstatic.net/200000384421/product/adidas_yeezy_boost_350_v2__coppe_2789ffd04cf24e5cabce2c5b15da5b4c_large.jpg ",
+      "rating": {
+        "rate": 3,
+        "count": 400
+      }
+    },
+    {
+      "id": 8,
+      "title": " Giày Adidas Yeezy Boost 700 'Carbon Blue' FW2498 ",
+      "price": 19500000,
+      "description": " Giày Adidas Yeezy Boost 700 là đôi giày sneaker được thiết kế bởi rapper Kanye West và hãng Adidas, với thiết kế đặc trưng của thập niên 90, đầy cá tính và phong cách. Đôi giày này sử dụng chất liệu da và vải bền chắc, kết hợp với lớp đế boost mang lại sự thoải mái và độ bền cao. Yeezy Boost 700 là biểu tượng của phong cách thời trang đương đại và được yêu thích trên toàn thế giới.",
+      "category": "Adidas",
+      "image": "https://product.hstatic.net/200000384421/product/fw2498_19e39e9a1e544092860866cd3_d8e11e1a0a6a4c599042365600093c13_large.png",
+      "rating": {
+        "rate": 5,
+        "count": 100
+      }
+    },
+    {
+      "id": 9,
+      "title": "Giày Adidas Yeezy Boost 700 'Wave Runner' B75571 ",
+      "price": 14500000,
+      "description": "Giày Adidas Yeezy Boost 700 'Wave Runner' là đôi giày sneaker được thiết kế bởi rapper Kanye West và hãng Adidas, với thiết kế đầy cá tính, táo bạo và sử dụng chất liệu đa dạng như da, vải và cao su. Lớp đế boost giúp mang lại sự thoải mái và độ bền cao. Yeezy Boost 700 'Wave Runner' là biểu tượng của phong cách thời trang đương đại và được yêu thích trên toàn thế giới.",
+      "category": " Adidas ",
+      "image": " https://product.hstatic.net/200000384421/product/195483_01.jpg_201a6d3044944ad0b91c790fc3a7d956_bfb4096ccdcb4c018068fe4024719219_large.jpeg ",
+      "rating": {
+        "rate": 3.3,
+        "count": 203
+      }
+    },
+    {
+      "id": 10,
+      "title": " Giày Adidas Yeezy Boost 700 'Hi-Res Red' HQ6979 ",
+      "price": 10000000,
+      "description": " Giày Adidas Yeezy Boost 700 'Hi-Res Red' là đôi giày sneaker được thiết kế bởi rapper Kanye West và hãng Adidas, với màu đỏ chủ đạo và chi tiết đen trắng tạo nên sự tương phản nổi bật. Chất liệu da và vải đem lại sự bền chắc, kết hợp với lớp đế boost mang lại sự thoải mái khi sử dụng. Yeezy Boost 700 'Hi-Res Red' là biểu tượng của phong cách thời trang đương đại và được yêu thích trên toàn thế giới. ",
+      "category": " Adidas ",
+      "image": " https://product.hstatic.net/200000384421/product/hq6979.png_45f30df4a12445e0acea4_cb8e736865a14f4ebc7080f10efbb307_large.png ",
+      "rating": {
+        "rate": 2.9,
+        "count": 470
+      }
+    },
+    {
+      "id": 11,
+      "title": " Giày Adidas Y3 Qasa Hi Triple White AQ5500 ",
+      "price": 8500000,
+      "description": " Giày Adidas Y3 Qasa Hi Triple White là đôi giày sneaker được thiết kế bởi nhà thiết kế Yohji Yamamoto, với màu trắng tinh khôi và kiểu dáng hiện đại, đầy cá tính. Chất liệu da và vải cao cấp giúp đôi giày bền chắc và thoải mái khi sử dụng. Y3 Qasa Hi Triple White là biểu tượng của phong cách thời trang đương đại và được yêu thích trên toàn thế giới. ",
+      "category": "Adidas",
+      "image": " https://product.hstatic.net/200000384421/product/43445_01.jpg_c619ab229935426ca0bbde3a72fca883_2834945c5398429790b572ca8ae6db04_large.png ",
+      "rating": {
+        "rate": 4.8,
+        "count": 319
+      }
+    },
+    {
+      "id": 12,
+      "title": " Giày Adidas Yeezy Boost 700 MNVN 'Honey Flux' GZ0717 ",
+      "price": 7900000,
+      "description": " Giày Adidas Yeezy Boost 700 MNVN 'Honey Flux' là đôi giày sneaker được thiết kế bởi rapper Kanye West và hãng Adidas, với màu vàng nâu chủ đạo và chữ MNVN táo bạo trên thân giày. Chất liệu vải dệt kim và đế boost mang lại sự thoải mái khi sử dụng. Yeezy Boost 700 MNVN 'Honey Flux' là biểu tượng của phong cách thời trang đương đại và được yêu thích trên toàn thế giới. ",
+      "category": "Adidas",
+      "image": " https://product.hstatic.net/200000384421/product/773886_01.jpg_26c9f814f82e45cd9a_a9a8a6a415434caabe95f44e691ad181_large.png ",
+      "rating": {
+        "rate": 4.8,
+        "count": 400
+      }
+    },
+    {
+      "id": 13,
+      "title": " Giày Adidas Yeezy Boost 350 V2 'MX Oat' GW3773 ",
+      "price": 8900000,
+      "description": " Adidas Yeezy Boost 350 V2 'MX Oat' là một phiên bản đặc biệt của dòng giày Yeezy Boost 350 với màu sắc và chất liệu độc đáo. Màu sắc chủ đạo của giày là màu be trầm, được kết hợp với những điểm nhấn màu đen và xám. Chất liệu Primeknit dệt kim trên thân giày mang đến sự thoải mái và đàn hồi cho bàn chân, đồng thời đế giày Boost tạo ra sự êm ái và đàn hồi đáng kinh ngạc khi đi lại. Giày Adidas Yeezy Boost 350 V2 'MX Oat' GW3773 là một sự lựa chọn tuyệt vời cho những người yêu thích phong cách đương đại và muốn sở hữu một đôi giày thể hiện sự cá tính và phong cách riêng của mình.",
+      "category": "Adidas",
+      "image": " https://product.hstatic.net/200000384421/product/787216_01.jpg_f92b883b4137490282_f1229a570307490eafe4052ae9acc633_large.png ",
+      "rating": {
+        "rate": 2.9,
+        "count": 250
+      }
+    },
+    {
+      "id": 14,
+      "title": " Giày Adidas EQT Bask ADV 'Triple White' CQ2992 ",
+      "price": 6900000,
+      "description": " Giày Adidas EQT Bask ADV 'Triple White' là đôi giày sneaker với màu trắng tinh khôi trên toàn bộ thân giày. Thiết kế hiện đại, độc đáo với đế giày chunky và logo ba sọc của Adidas. Chất liệu vải và da cao cấp cùng công nghệ đệm EVA cho đôi giày mang lại sự thoải mái, êm ái khi sử dụng. EQT Bask ADV 'Triple White' là biểu tượng của phong cách thời trang đương đại và được yêu thích trên toàn thế giới. ",
+      "category": "Adidas",
+      "image": " https://product.hstatic.net/200000384421/product/cq2992.png_db01bd18513449e8a4c58_877a746db8234444a458bd2d7c6d6209_large.png ",
+      "rating": {
+        "rate": 2.2,
+        "count": 140
+      }
+    },
+    {
+      "id": 15,
+      "title": " Giày MLB Chunky Liner New York Yankees 'Off White' 3ASXCA12N-50WHS ",
+      "price": 4500000,
+      "description": " Giày MLB Chunky Liner New York Yankees 'Off White' là đôi giày sneaker với màu sắc trung tính và họa tiết in logo của đội bóng New York Yankees. Thiết kế chunky độc đáo với đế giày dày, được làm bằng cao su chất lượng cao giúp giảm chấn tốt hơn khi di chuyển. Chất liệu da và vải kết hợp cùng lớp đệm bên trong giày giúp cho đôi giày mang lại sự thoải mái khi sử dụng. MLB Chunky Liner New York Yankees 'Off White' là sự kết hợp tuyệt vời giữa phong cách thể thao và thời trang đường phố. ",
+      "category": "MLB",
+      "image": " https://product.hstatic.net/200000384421/product/giay-mlb-chunky-liner-new-york-y_ebcf2956310e4db3ae0ca8247e49ee2a_large.png ",
+      "rating": {
+        "rate": 2.6,
+        "count": 235
+      }
+    },
+    {
+      "id": 16,
+      "title": " Giày MLB Chunky Liner High San Francisco 'Orange Black' 3ASXCB12N-14ORL ",
+      "price": 4500000,
+      "description": " Giày MLB Chunky Liner High San Francisco 'Orange Black' là đôi giày sneaker với màu sắc chủ đạo là cam và đen. Thiết kế chunky độc đáo với đế giày dày được làm bằng cao su chất lượng cao giúp giảm chấn tốt hơn khi di chuyển. Chất liệu da và vải kết hợp cùng lớp đệm bên trong giày giúp cho đôi giày mang lại sự thoải mái khi sử dụng. Giày MLB Chunky Liner High San Francisco 'Orange Black' in logo của đội bóng San Francisco, mang đến sự tôn vinh cho đội bóng yêu thích của bạn. ",
+      "category": "MLB",
+      "image": " https://product.hstatic.net/200000384421/product/374x374__2__bb36004ea9cd43618ff9_299fef8a42d34c979af129f293700a9d_large.png ",
+      "rating": {
+        "rate": 2.9,
+        "count": 340
+      }
+    },
+    {
+      "id": 17,
+      "title": " Giày MLB Bigball Chunky Mono 'Red Sox' 3ASHCM11N-43BGD ",
+      "price": 3900000,
+      "description": " Giày MLB Bigball Chunky Mono 'Red Sox' là đôi giày sneaker với màu sắc chủ đạo là đỏ, được in logo của đội bóng Red Sox trên đế giày và thân giày. Thiết kế chunky độc đáo với đế giày dày được làm bằng cao su chất lượng cao giúp giảm chấn tốt hơn khi di chuyển. Chất liệu da và vải kết hợp cùng lớp đệm bên trong giày giúp cho đôi giày mang lại sự thoải mái khi sử dụng. Giày MLB Bigball Chunky Mono 'Red Sox' là lựa chọn hoàn hảo cho các fan hâm mộ đội bóng Red Sox. ",
+      "category": "MLB",
+      "image": " https://product.hstatic.net/200000384421/product/3410_634x634_25e22050bd514d22994_9f5fb7a6ced64a2d902c47e290191964_large.png ",
+      "rating": {
+        "rate": 3.8,
+        "count": 679
+      }
+    },
+    {
+      "id": 18,
+      "title": " Giày MLB Bigball Chunky Boston Mickey Red Sox 32SHCK011-43I ",
+      "price": 3200000,
+      "description": " Giày MLB Bigball Chunky Boston Mickey Red Sox là đôi giày sneaker với thiết kế chunky độc đáo, có màu đỏ chủ đạo với hình ảnh của nhân vật Mickey được in trên thân giày và đế giày. Giày được làm từ chất liệu da và vải kết hợp với lớp đệm êm ái bên trong, giúp đôi giày mang lại sự thoải mái cho người sử dụng. Logo của đội bóng Red Sox cũng được in ấn trên đế giày, tôn lên sự độc đáo và phong cách của đôi giày. ",
+      "category": " MLB ",
+      "image": " https://product.hstatic.net/200000384421/product/634x634__5__5ee23981ed6544a58cab_26cda7db955744939a5ceffac56e01ca_edf0b0d26d9340c388b4823cf2e6fe61_large.png ",
+      "rating": {
+        "rate": 4.7,
+        "count": 130
+      }
+    },
+    {
+      "id": 19,
+      "title": " Giày MLB Playball Origin NY 32SHP1111-50K ",
+      "price": 2900000,
+      "description": " Giày MLB Playball Origin NY là đôi giày sneaker với thiết kế đơn giản, màu sắc chủ đạo là đen và trắng. Được làm từ chất liệu da và vải, giày mang đến sự bền bỉ và thoải mái cho người sử dụng. Logo của đội bóng New York Yankees được in trên thân giày, tạo nên sự thể thao và đậm chất của bộ môn bóng chày. ",
+      "category": "MLB",
+      "image": " https://product.hstatic.net/200000384421/product/828x828__1__6710cd4f6b024bf7b273_7378bec55a61415d83ac07de7254565b_large.png ",
+      "rating": {
+        "rate": 4.5,
+        "count": 146
+      }
+    },
+    {
+      "id": 20,
+      "title": " Giày MLB Bigball Chunky A New York Yankees 32SHC1111-50I ",
+      "price": 2900000,
+      "description": " Giày MLB Bigball Chunky A New York Yankees là đôi giày sneaker với thiết kế năng động, màu sắc chủ đạo là đen và trắng. Được làm từ chất liệu da và vải, giày mang đến sự bền bỉ và thoải mái cho người sử dụng. Logo của đội bóng New York Yankees được in trên thân giày, tạo nên sự thể thao và đậm chất của bộ môn bóng chày.",
+      "category": "MLB",
+      "image": " https://product.hstatic.net/200000384421/product/32shc1111-50i-27230720039190560_92806e78606d406cbe0b7b827e91f515_large.png ",
+      "rating": {
+        "rate": 3.6,
+        "count": 145
+      }
+    },
+    {
+      "id": 21,
+      "title": " Giày New Balance Wmns 608 Wide 'White Black' WX608RB1D ",
+      "price": 2300000,
+      "description": " Giày New Balance Wmns 608 Wide 'White Black' là một đôi giày thể thao nữ được thiết kế với phần trên màu trắng và đen, phù hợp cho chân rộng. Giày có đế giữa EVA và đế ngoài cao su, mang lại sự thoải mái và độ bền cao khi sử dụng.",
+      "category": "New Blance",
+      "image": " https://product.hstatic.net/200000384421/product/wx608rb1d.png_69c73c401049410d851fee1cb75b8351_aac273a6d32d4e5c84f9ad24b78daa31_large.png ",
+      "rating": {
+        "rate": 3.6,
+        "count": 145
+      }
+    },
+    {
+      "id": 22,
+      "title": " Giày New Balance Jaden Smith X Vision Racer 'Black Pink' MSVRCJSH ",
+      "price": 6500000,
+      "description": " Giày New Balance Jaden Smith X Vision Racer 'Black Pink' là một đôi giày thể thao unisex với màu xanh lá cây nhạt trên nền màu trắng. Thiết kế của giày kết hợp giữa phong cách retro và hiện đại, với chất liệu da và vải cao cấp. Giày cũng được trang bị công nghệ đệm đàn hồi và đế ngoài bền chắc, mang lại sự thoải mái và độ bền cao khi sử dụng.",
+      "category": "New Blance",
+      "image": " https://product.hstatic.net/200000384421/product/723440_01.jpg_137dde02bd4546ce8c_c20c5c8d1ef94b96b03bc07ec5d3a4af_large.png ",
+      "rating": {
+        "rate": 3.6,
+        "count": 145
+      }
+    },
+    {
+      "id": 23,
+      "title": " Giày New Balance 550 'White Nightwatch Green' BB550PWC ",
+      "price": 5900000,
+      "description": " Giày New Balance 550 'White Nightwatch Green' là một đôi giày thể thao unisex với phần trên màu trắng kết hợp với chi tiết màu xanh lá cây đậm. Thiết kế của giày mang phong cách retro và đương đại, với chất liệu da và vải cao cấp. Giày cũng được trang bị công nghệ đệm đàn hồi và đế ngoài cao su bền chắc, mang lại sự thoải mái và độ bền cao khi sử dụng.",
+      "category": "New Blance",
+      "image": " https://product.hstatic.net/200000384421/product/bb550pwcnightwatchgreen1_1800x18_9fb93e70e24d4cfe8b73ac8eec97cd1c_large.png ",
+      "rating": {
+        "rate": 3.6,
+        "count": 145
+      }
+    },
+    {
+      "id": 24,
+      "title": " Giày New Balance 550 'Au Lait' BBW550WA ",
+      "price": 5900000,
+      "description": "Giày New Balance 550 'Au Lait' BBW550WA là một đôi giày thể thao unisex với phần trên màu kem nhạt. Thiết kế của giày mang phong cách retro và đương đại, với chất liệu da và vải cao cấp. Giày cũng được trang bị công nghệ đệm đàn hồi và đế ngoài cao su bền chắc, mang lại sự thoải mái và độ bền cao khi sử dụng.",
+      "category": "New Blance",
+      "image": "https://product.hstatic.net/200000384421/product/new-balance-550-au-lait-w-produc_7a7c837f6a4245b498433d0b37ffd143_large.png",
+      "rating": {
+        "rate": 3.6,
+        "count": 145
+      }
+    }
+  ]
+}
